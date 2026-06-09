@@ -91,6 +91,25 @@
           "type": "txt"
         }
       ]
+    },
+    {
+      "id": "python-testing-debugging",
+      "title": "Python Testing and Debugging",
+      "description": "Write tests for Python functions, debug failing code, and handle invalid inputs.",
+      "path": "assignments/python-testing-debugging",
+      "dueDate": "2026-06-16",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Test Suite",
+          "file": "tests.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
