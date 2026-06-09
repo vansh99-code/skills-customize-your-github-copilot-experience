@@ -1,0 +1,5 @@
+Python is a powerful programming language for text processing. Many developers use Python to read, manipulate, and analyze text files.
+
+This assignment focuses on working with strings, file I/O, and simple text transformations. Practice reading files, counting words, and finding key sentences.
+
+Text processing is useful in many areas, including natural language processing, data cleaning, and automation.
